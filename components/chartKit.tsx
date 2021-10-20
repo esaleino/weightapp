@@ -46,7 +46,7 @@ export default class LineChartComponent extends Component {
       values[x] = i;
       x++;
     }
-    fetch('')
+    fetch('http://192.168.31.130:3000/piggieapp/get')
       .then((res) => res.json())
       .then((json) => {
         this.setState({ json: json, loaded: true });

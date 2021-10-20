@@ -31,7 +31,7 @@ export default function TabTwoScreen() {
   const onSubmit = (data) => {
     console.log(data.almunki);
     data.labels = date;
-    postData('', {
+    postData('http://192.168.31.130:3000/piggieapp/post', {
       data,
     }).then((data) => {
       console.log(data); // JSON data parsed by `data.json()` call
