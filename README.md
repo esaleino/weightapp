@@ -3,6 +3,13 @@
 # Table of Contents <!-- omit in toc -->
 
 - [1. Introduction](#1-introduction)
+  - [1.1 Basic functionality](#11-basic-functionality)
+  - [1.2 Features](#12-features)
+  - [1.3 Possible future features](#13-possible-future-features)
+- [2. Tech](#2-tech)
+- [3. Screenshots](#3-screenshots)
+  - [3.1 Screenshots of dashboard](#31-screenshots-of-dashboard)
+  - [3.2 Screenshots of data input](#32-screenshots-of-data-input)
 
 # 1. Introduction
 
